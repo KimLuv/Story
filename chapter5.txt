@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 still practicing git
+=======
+still practicing git ohh git
+>>>>>>> alien-plot
